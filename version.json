@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "min_version": "1.0.1",
   "force_update": true,
-  ""https://github.com/theanh39/lunexexe"",
+  "download_url": "https://raw.githubusercontent.com/theanh39/lunexexe/main/AutoLunex.exe",
   "title": "Yêu cầu cập nhật AutoLunex v1.0.1",
   "message": "Đã có bản cập nhật mới v1.0.1. Hệ thống sẽ tự động tải ngầm và cập nhật.",
   "release_notes": [
